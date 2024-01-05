@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcLib", "CalcLib\CalcLib.csproj", "{31DC230A-D689-47DD-8C89-034E1E4B7440}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowProjectAss1Calc", "SpecFlowProjectAss1Calc\SpecFlowProjectAss1Calc.csproj", "{CE938DC2-5618-4AB3-91E0-4ABD8E881A20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31DC230A-D689-47DD-8C89-034E1E4B7440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31DC230A-D689-47DD-8C89-034E1E4B7440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31DC230A-D689-47DD-8C89-034E1E4B7440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31DC230A-D689-47DD-8C89-034E1E4B7440}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE938DC2-5618-4AB3-91E0-4ABD8E881A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE938DC2-5618-4AB3-91E0-4ABD8E881A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE938DC2-5618-4AB3-91E0-4ABD8E881A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE938DC2-5618-4AB3-91E0-4ABD8E881A20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64F66375-6436-46F9-A0CC-30F511AE838E}
+	EndGlobalSection
+EndGlobal
